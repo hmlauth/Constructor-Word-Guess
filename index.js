@@ -23,6 +23,7 @@ console.log(wordToMatch);
 
 var letterArray = [];
 
+
 var newLetter = new Letter("l");
 console.log(newLetter);
 newLetter.toString("l");
